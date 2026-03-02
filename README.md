@@ -49,7 +49,7 @@
 <a href="https://instagram.com/jahid.developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jahid.developer" height="30" width="40" /></a>
 <a href="https://www.behance.net/jahidemallick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="jahidemallick" height="30" width="40" /></a>
 <a href="https://medium.com/@jahidekbalmallick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jahidekbalmallick" height="30" width="40" /></a>
-<a href="[https://www.youtube.com/c/@teamregix](https://www.youtube.com/channel/UCVAqPdbMyIR1mZQSvWi53Yg)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@guru-esports" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@teamregix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@guru-esports" height="30" width="40" /></a>
 <a href="https://discord.gg/f8dcB5nDyh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="f8dcB5nDyh" height="30" width="40" /></a>
 </p>
 <!--
