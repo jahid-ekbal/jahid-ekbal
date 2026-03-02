@@ -20,7 +20,7 @@
 
 <p align="left"> <a href="https://twitter.com/jahidekbal01" target="blank"><img src="https://img.shields.io/twitter/follow/jahidekbal01?logo=twitter&style=for-the-badge" alt="jahidekbal01" /></a> </p> -->
 
-- 🔭 I’m currently working on [My portfolio website](https://github.com/jahid-ekbal/jahid-ekbal-mallick)
+- 🔭 I’m currently working on [REGIX Studio]()
 
 - 🌱 I’m currently learning **web penetration testing**
 
@@ -31,8 +31,6 @@
 - 💬 Ask me about **react or Next.js**
 
 - 📫 How to reach me **jahidekbalmallick@gmail.com**
-
-- ⚡ Fun fact **I think we are become a vibe coder 😂**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
