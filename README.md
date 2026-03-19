@@ -5,10 +5,16 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=5050&pause=1000&color=0060FF&random=true&width=435&lines=HI+%F0%9F%91%8B+I+AM+JAHID+EKBAL+MALLICK)](https://git.io/typing-svg)  	-->
 
+<div align="">
+
+<!-- ═══════════════════════════ ANIMATED HEADER ═══════════════════════════ -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=32&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=false&random=false&width=600&lines=%F0%9F%9A%80+JAHID+EKBAL+MALLICK;%F0%9F%A7%A0+Full-Stack+Engineer;%F0%9F%8E%A8+UI%2FUX+%26+Product+Builder;%E2%9A%A1+Esports+Platform+Creator)](https://git.io/typing-svg)
+
+<br/>
 
 
-
-
+<!--
 
 <h1 align="center">Hi 👋, I'm JAHID EKBAL MALLICK</h1>
 <h3 align="center">A passionate tech enthusiast from India</h3>
@@ -20,6 +26,39 @@
 
 <p align="left"> <a href="https://twitter.com/jahidekbal01" target="blank"><img src="https://img.shields.io/twitter/follow/jahidekbal01?logo=twitter&style=for-the-badge" alt="jahidekbal01" /></a> </p> -->
 
+
+
+
+---
+
+<!-- ═══════════════════════════ ABOUT ME ═══════════════════════════ -->
+
+## 🧬 `whoami`
+
+```ts
+const jahid = {
+  name        : "Jahid Ekbal Mallick",
+  role        : ["Full-Stack Developer", "UI/UX Designer", "Esports Platform Builder"],
+  location    : "India 🇮🇳",
+  company     : "REGIX Studio — Founder & Lead Engineer",
+  learning    : ["Web Penetration Testing", "AI/ML Integration", "System Design"],
+  stack       : ["Next.js", "React", "TypeScript", "Node.js", "Tailwind CSS"],
+  collab      : "Always open to ambitious, high-impact projects 🚀",
+  contact     : "jahidekbalmallick@gmail.com",
+  fun_fact    : "I built a customized virus for you .",
+};
+```
+
+---
+
+
+
+
+
+
+
+
+<!--
 - 🔭 I’m currently working on [REGIX Studio]()
 
 - 🌱 I’m currently learning **web penetration testing**
