@@ -8,19 +8,22 @@
 
 <!-- ═══════════════════════════ ABOUT ME ═══════════════════════════ -->
 
-## 🧬 `whoami`
+## 🧬 `whoami` — Executive Profile
 
 ```ts
 const jahid = {
   name: "Jahid Ekbal Mallick",
-  role: ["Full-Stack Developer", "UI/UX Designer", "Esports Platform Builder"],
-  location: "India 🇮🇳",
-  company: "REGIX Studio — Founder & Lead Engineer",
-  learning: ["Web Penetration Testing", "AI/ML Integration", "System Design"],
-  stack: ["Next.js", "React", "TypeScript", "Node.js", "Tailwind CSS"],
-  collab: "Always open to ambitious, high-impact projects 🚀",
-  contact: "jahidekbalmallick@gmail.com",
-  fun_fact: "I built a customized virus for you .",
+  title: "🚀 CEO & Lead AI Engineering Partner",
+  roles: [
+    "🏗️ Full-Stack Architect",
+    "🎨 Design Systems Engineer",
+    "⚡ Product Strategist",
+  ],
+  location: "🇮🇳 Kolkata, India",
+  company: "REGIX Studio — Global Market Leadership",
+  vision: "10-Year Path: REGIX AI | EKBAL STUDIO | TEAM REGIX",
+  contact: "📧 jahidekbalmallick@gmail.com",
+  mission: "Code for billions. Build it right.",
 };
 ```
 
@@ -43,13 +46,41 @@ const jahid = {
 <a href="https://discord.gg/f8dcB5nDyh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="f8dcB5nDyh" height="30" width="40" /></a>
 </p>
 
-# 💻 Tech Stack:
+# 💻 **Engineered Tech Stack**
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwindcss,bootstrap,nodejs,bun,nextjs,react,sqlite,figma,xd,photoshop,premierepro)](https://skillicons.dev)
 
-## 📧 For Business Inquiries
+---
 
-✅ ➤ jahidekbal.io@gmail.com
+## 🏆 **Core Strategic Initiatives**
+
+### 🤖 **REGIX AI** — Intelligent Infrastructure
+
+- **Purpose**: Neural backbone powering all REGIX products
+- **Tech**: Next.js API, Node.js microservices, LLM integration
+- **Impact**: Defensible competitive moat through proprietary AI
+- **Security**: Rate limiting, prompt injection prevention, audit logs
+
+### 🛍️ **EKBAL STUDIO** — Luxury E-Commerce
+
+- **Purpose**: Premium conversion-optimized storefront with trust signals
+- **Tech**: Next.js SSG/ISR, Stripe integration, inventory management
+- **Impact**: High-margin revenue stream, global reach
+- **Design**: Apple minimalism + Glassmorphism checkout flow
+
+### ⚡ **TEAM REGIX** — eSports Community Engine
+
+- **Purpose**: Engagement loops driving esports monetization
+- **Tech**: Real-time WebSocket updates, tournament matching, streaming
+- **Impact**: Community moat + sponsorship revenue
+- **Features**: Leaderboards, team management, live stats
+
+---
+
+## 📧 **Executive Contact & Partnerships**
+
+**Primary**: jahidekbalmallick@gmail.com  
+**Scale Inquiries**: 🚀 Let's build for billions
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCVAqPdbMyIR1mZQSvWi53Yg) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCVAqPdbMyIR1mZQSvWi53Yg) ![GitHub followers](https://img.shields.io/github/followers/jahid-ekbal) ![GitHub User's stars](https://img.shields.io/github/stars/jahid-ekbal)
 
@@ -57,9 +88,9 @@ const jahid = {
 
 ---
 
-# 🎨 Design Theme System: Apple Minimalism
+# 🎨 **Design System: Apple Minimalism + Glassmorphism**
 
-## 1. Visual Theme & Atmosphere
+## 1. 🖼️ Visual Theme & Atmosphere
 
 Apple's website is a masterclass in controlled drama — vast expanses of pure black and near-white serve as cinematic backdrops for products that are photographed as if they were sculptures in a gallery. The design philosophy is **reductive to its core**: every pixel exists in service of the product, and the interface itself retreats until it becomes invisible. This is not minimalism as aesthetic preference; it is minimalism as reverence for the object.
 
@@ -91,7 +122,7 @@ The color story is starkly binary:
 
 ---
 
-## 2. Color Palette & Roles
+## 2. 🎨 **Color Palette & Semantic Roles**
 
 ### Primary Colors
 
@@ -143,14 +174,16 @@ The color story is starkly binary:
 
 ---
 
-## 3. Typography Rules
+## 3. ✍️ **Typography Rules & Animation Layers**
 
-### Font Family
+### Font Family & Animation Timing
 
 - **Display**: SF Pro Display, with fallbacks: SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif
+  - **Animation**: `fadeInScale 0.8s cubic-bezier(0.25, 0.46, 0.45, 0.94)`
 - **Body**: SF Pro Text, with fallbacks: SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif
+  - **Animation**: `fadeInScale 1.0s ease-out 0.2s backwards`
 
-_SF Pro Display is used at 20px and above; SF Pro Text is optimized for 19px and below._
+_SF Pro Display at 20px+ with entrance animation; SF Pro Text optimized below 19px with staggered reveal._
 
 ### Typography Hierarchy
 
@@ -186,7 +219,7 @@ _SF Pro Display is used at 20px and above; SF Pro Text is optimized for 19px and
 
 ---
 
-## 4. Component Stylings
+## 4. 🧩 **Component Stylings & Motion Design**
 
 ### Buttons
 
@@ -292,7 +325,7 @@ _The nav floats above content, maintaining its dark translucent glass regardless
 
 ---
 
-## 5. Layout Principles
+## 5. 📐 **Layout Principles & Spatial Choreography**
 
 ### Spacing System
 
@@ -330,7 +363,7 @@ _Characteristic: The scale is dense at small sizes (2-11px) with granular 1px in
 
 ---
 
-## 6. Depth & Elevation
+## 6. 🌊 **Depth, Elevation & Glassmorphism Layer System**
 
 | Level                 | Treatment                                                         | Use                                        |
 | --------------------- | ----------------------------------------------------------------- | ------------------------------------------ |
@@ -340,19 +373,25 @@ _Characteristic: The scale is dense at small sizes (2-11px) with granular 1px in
 | Media Control         | `rgba(210, 210, 215, 0.64)` background with scale transforms      | Play/pause buttons, carousel controls      |
 | Focus (Accessibility) | `2px solid #0071e3` outline                                       | Keyboard focus on all interactive elements |
 
-### Shadow Philosophy
+### Shadow Philosophy & Glassmorphism
 
-Apple uses shadow extremely sparingly. The primary shadow (3px 5px 30px with 0.22 opacity) is soft, wide, and offset — mimicking a diffused studio light casting a natural shadow beneath a physical object. This reinforces the "product as physical sculpture" metaphor. Most elements have NO shadow at all; elevation comes from background color contrast.
+Apple uses shadow sparingly; REGIX enhances with **Liquid Glass**:
 
-### Decorative Depth
+- **Primary shadow**: `3px 5px 30px rgba(0,0,0,0.22)` — soft, diffused, studio light effect
+- **Glass layer**: `backdrop-filter: blur(10px)` + `rgba(255,255,255,0.08)` + `border: 1px solid rgba(255,255,255,0.2)`
+- **Elevation through transparency**, not depth. Background contrast creates visual hierarchy.
 
-- **Navigation glass**: The translucent, blurred navigation bar is the most recognizable depth element, creating a sense of floating UI above scrolling content
-- **Section color transitions**: Depth is implied by the alternation between black and light gray sections rather than by shadows
-- **Product photography shadows**: The products themselves cast shadows in their photography, so the UI doesn't need to add synthetic ones
+### Decorative Depth & Liquid Glass Positioning
+
+- **Navigation glass**: Translucent nav bar (`backdrop-filter: blur(20px)`) floats above content
+  - **Animation**: Subtle entrance on load; sticky positioning with parallax scroll
+- **Section color transitions**: Binary rhythm (black/light gray) implies depth; Glassmorphism cards layer on top
+- **Product photography**: Products cast shadows in photography; UI stays invisible except glass overlays
+- **Entrance timing**: Stagger card reveals by 100–150ms for elegant cascade effect
 
 ---
 
-## 7. Do's and Don'ts
+## 7. ✅ **Do's and Don'ts — Engineering Guardrails**
 
 ### ✅ Do
 
@@ -379,7 +418,7 @@ Apple uses shadow extremely sparingly. The primary shadow (3px 5px 30px with 0.2
 
 ---
 
-## 8. Responsive Behavior
+## 8. 📱 **Responsive Behavior & Mobile Animation Strategy**
 
 ### Breakpoints
 
@@ -401,13 +440,15 @@ Apple uses shadow extremely sparingly. The primary shadow (3px 5px 30px with 0.2
 - **Media controls**: 50% radius circular buttons, minimum 44x44px
 - **"Learn more" pills**: Generous padding for comfortable tapping
 
-### Collapsing Strategy
+### Collapsing Strategy with Motion
 
-- **Hero headlines**: 56px Display → 40px → 28px on mobile, maintaining tight line-height proportionally
-- **Product grids**: 3-column → 2-column → single column stacked
-- **Navigation**: Full horizontal nav → compact mobile menu (hamburger)
-- **Product hero modules**: Full-bleed maintained at all sizes, text scales down
-- **Section backgrounds**: Maintain full-width color blocks at all breakpoints — the cinematic rhythm never breaks
+- **Hero headlines**: 56px (0.8s) → 40px (0.7s) → 28px mobile (0.6s)
+  - Maintain tight line-heights proportionally; stagger text animations
+- **Product grids**: 3-column → 2-column → single column; glass card reveals stagger by 80ms per item
+- **Navigation**: Full horizontal nav → hamburger overlay (slides from top, blur background)
+- **Product hero modules**: Full-bleed maintained; typography scales responsively
+- **Section backgrounds**: Full-width color blocks persist; glass overlays scale seamlessly
+- **Touch targets**: Minimum 44x44px; add haptic feedback (where supported)
 
 ### Image Behavior
 
@@ -419,7 +460,7 @@ Apple uses shadow extremely sparingly. The primary shadow (3px 5px 30px with 0.2
 
 ---
 
-## 9. Quick Color Reference & Component Prompts
+## 9. ⚡ **Quick Reference: Colors, Animations & Specs**
 
 ### Quick Color Reference
 
@@ -458,13 +499,36 @@ Apple uses shadow extremely sparingly. The primary shadow (3px 5px 30px with 0.2
 
 > Design a 'Learn more' link: text #0066cc on light bg or #2997ff on dark bg, 14px SF Pro Text, underline on hover. After the text, include a right-arrow chevron character (>). Wrap in a container with 980px border-radius for pill shape when used as a standalone CTA.
 
-### Iteration Guide
+### 🎯 **Iteration Guide: The REGIX Engineering Mandate**
 
-- Every interactive element gets Apple Blue (#0071e3) — no other accent colors
-- Section backgrounds alternate: black for immersive moments, #f5f5f7 for informational moments
+#### 🎨 **Design Law**
+
+- Every interactive element gets Apple Blue (#0071e3) — singular accent, no negotiation
+- Section backgrounds alternate: #000000 (immersive/premium) ↔ #f5f5f7 (informational/trust)
+- Glassmorphism overlays layer on dark sections: `rgba(255,255,255,0.08)` + `blur(10px)`
 - Typography optical sizing: SF Pro Display at 20px+, SF Pro Text below — never mix
-- Negative letter-spacing at all sizes: -0.28px at 56px, -0.374px at 17px, -0.224px at 14px, -0.12px at 12px
-- The navigation glass effect (translucent dark + blur) is non-negotiable — it defines the Apple web experience
-- Products always appear on solid color fields — never on gradients, textures, or lifestyle backgrounds in hero modules
-- Shadow is rare and always soft: 3px 5px 30px 0.22 opacity or nothing at all
-- Pill CTAs use 980px radius — this creates the signature Apple rounded-rectangle-that-looks-like-a-capsule shape
+- Negative letter-spacing at all sizes: -0.28px (56px) → -0.374px (17px) → -0.224px (14px) → -0.12px (12px)
+- Navigation glass is non-negotiable: `backdrop-filter: blur(20px)` + `rgba(0,0,0,0.8)`
+
+#### ⚙️ **Development Law**
+
+- Products on solid-color fields only — zero gradients, textures, or lifestyle backgrounds
+- Shadow protocol: `3px 5px 30px rgba(0,0,0,0.22)` for cards OR nothing
+- Pill CTAs use 980px radius — Apple's signature rounded-rectangle shape
+- Entrance animations: `fadeInScale` 0.6s–0.8s cubic-bezier; stagger child elements by 100–150ms
+- All interactive states: hover (+2px translateY), active (reset), focus (2px outline #0071e3)
+- Mobile-first: Glass panels degrade gracefully on low-end devices (no blur fallback)
+
+#### 🔐 **Security Law**
+
+- CSRF tokens on all forms; sanitize user input server-side
+- Rate limit API endpoints: 100 req/min per IP (REGIX AI endpoints)
+- Sanitize SVG/image uploads; block script injection vectors
+- Content Security Policy: `default-src 'self'; style-src 'unsafe-inline'` (for Tailwind)
+- Auth: JWT with 15-min expiry; refresh tokens in httpOnly cookies
+
+#### 🎯 **Brand Law**
+
+- Every feature must enhance one of three REGIX pillars: **REGIX AI** (infrastructure), **EKBAL STUDIO** (revenue), **TEAM REGIX** (community)
+- No feature ships without product reasoning: "This converts X% more users" or "This reduces churn by Y%"
+- Code is culture. Write for billions, not thousands. Scalability is table stakes.
