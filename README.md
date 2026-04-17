@@ -1,534 +1,224 @@
-<div>
 
-<!-- ═══════════════════════════ ANIMATED HEADER ═══════════════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=32&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=false&random=false&width=600&lines=%F0%9F%9A%80+JAHID+EKBAL+MALLICK;%F0%9F%A7%A0+Full-Stack+Engineer;%F0%9F%8E%A8+UI%2FUX+%26+Product+Builder;%E2%9A%A1+Esports+Platform+Creator)](https://git.io/typing-svg)
+<div align="center">
 
-<br/>
 
-<!-- ═══════════════════════════ ABOUT ME ═══════════════════════════ -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=5050&pause=1000&color=0060FF&random=true&width=435&lines=HI+%F0%9F%91%8B+I+AM+JAHID+EKBAL+MALLICK)](https://git.io/typing-svg)
 
-## 🧬 `whoami` — Executive Profile
+<!-- <img
+			src="https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif"
+			alt="error image" style="height: 100px; width: 100px" />
 
-```ts
-const jahid = {
-  name: "Jahid Ekbal Mallick",
-  title: "🚀 CEO & Lead AI Engineering Partner",
-  roles: [
-    "🏗️ Full-Stack Architect",
-    "🎨 Design Systems Engineer",
-    "⚡ Product Strategist",
-  ],
-  location: "🇮🇳 Kolkata, India",
-  company: "REGIX Studio — Global Market Leadership",
-  vision: "10-Year Path: REGIX AI | EKBAL STUDIO | TEAM REGIX",
-  contact: "📧 jahidekbalmallick@gmail.com",
-  mission: "Code for billions. Build it right.",
-};
-```
 
----
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/jahid-ekbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jahid-ekbal" height="30" width="40" /></a>
-<a href="https://dev.to/jahid_developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jahid_developer" height="30" width="40" /></a>
-<a href="https://twitter.com/jahidekbal01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jahidekbal01" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jahid-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jahid-developer" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/jahid-ekbal-mallick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jahid-ekbal-mallick" height="30" width="40" /></a>
-<a href="https://codesandbox.com/ahidekbalmallick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ahidekbalmallick" height="30" width="40" /></a>
-<a href="https://kaggle.com/jahidekbalmallick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jahidekbalmallick" height="30" width="40" /></a>
-<a href="https://fb.com/jahid.developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jahid.developer" height="30" width="40" /></a>
-<a href="https://instagram.com/jahid.developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jahid.developer" height="30" width="40" /></a>
-<a href="https://www.behance.net/jahidemallick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="jahidemallick" height="30" width="40" /></a>
-<a href="https://medium.com/@jahidekbalmallick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jahidekbalmallick" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@teamregix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@guru-esports" height="30" width="40" /></a>
-<a href="https://discord.gg/f8dcB5nDyh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="f8dcB5nDyh" height="30" width="40" /></a>
-</p>
+			[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+JAHID+EKBAL+MALLICK)](https://git.io/typing-svg)
 
-# 💻 **Engineered Tech Stack**
+			
+			<img width="1584" height="396" alt="Abstract Technology Profile LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/51b32d3f-f652-4654-9e7b-8f8c7c560a43" />
+
+			
+			-->
+<img width="1584" height="396" alt="Abstract Technology Profile LinkedIn Banner (2)" src="https://github.com/user-attachments/assets/6d422439-fc00-419a-97a0-3803eac7ea15" />
+
+</div>
+
+
+
+
+# 💻 Tech Stack:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwindcss,bootstrap,nodejs,bun,nextjs,react,sqlite,figma,xd,photoshop,premierepro)](https://skillicons.dev)
 
+
+
+
+
+
+
+# 💫 About Me:
+
+
+
+
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body style="font-family: Arial, Helvetica, sans-serif; background-color: #f4f4f4; color: #2c3e50; margin: 0; padding: 0;">
+  <div style="max-width: 800px; margin: 40px auto; background: #fff; box-shadow: 0 2px 8px rgba(44,62,80,0.1); border-radius: 8px; padding: 32px;">
+    <h1 style="text-align: center; font-size: 2.4em; margin-bottom: 0.2em;">Jahid Ekbal: Full-Stack Developer &amp; Digital Creator</h1>
+    <p style="text-align: center; font-size: 1.2em; margin-bottom: 2em;">
+      I craft digital experiences that merge technical precision with visual innovation. As a versatile developer and designer, I bridge the gap between functionality and aesthetics to build engaging web solutions.
+    </p>
+    <h2 style="border-bottom: 2px solid #ecf0f1; padding-bottom: 0.2em;">🧑🏻‍💻Development Expertise</h2>
+    <ul style="line-height: 1.7;">
+      <li>⁴⁰⁴Frontend: HTML5, CSS3, JavaScript (ES6+)</li>
+      <li>🛠️Modern frameworks: React, Next.js, TypeScript</li>
+      <li>♻️CSS ecosystems: Bootstrap, Tailwind CSS</li>
+      <li>📱Responsive, mobile-first development</li>
+    </ul>
+    <h2 style="border-bottom: 2px solid #ecf0f1; padding-bottom: 0.2em; margin-top: 2em;">💡Design Specialization</h2>
+    <ul style="line-height: 1.7;">
+      <li>🎨UI/UX prototyping with Figma (advanced)</li>
+      <li>🎬Adobe Creative Suite virtuoso: Photoshop (advanced), Premiere Pro</li>
+      <li>🧊3D design with Blender</li>
+      <li>🌐Digital advertising &amp; social media content creation</li>
+      <li>▶️YouTube thumbnail design &amp; video production</li>
+    </ul>
+    <h2 style="border-bottom: 2px solid #ecf0f1; padding-bottom: 0.2em; margin-top: 2em;">📦What I Deliver</h2>
+    <ul style="line-height: 1.7;">
+      <li>📱Pixel-perfect responsive websites</li>
+      <li>🌐Interactive web applications</li>
+      <li>😀User-centric interface designs</li>
+      <li>📰Engaging social media campaigns</li>
+      <li>🎥Professional video content &amp; thumbnails</li>
+      <li>📢Custom digital advertising assets</li>
+    </ul>
+    <p style="margin-top: 2em; font-size: 1.05em; line-height: 1.7;">
+     📝 My workflow combines clean, maintainable code with compelling visuals – ensuring every project achieves both technical excellence and visual impact. Whether building complex web applications or crafting social media content, I solve digital challenges with creativity and precision.
+    </p>
+  </div>
+</body>
+</html>
+
+
+
+## 🌐 Socials:
+
+
+<p align="center">
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/jahid.developer" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/>
+  </a>
+  <!--
+	
+	GitHub 
+
+	
+	 <a href="https://github.com/IJahid01" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+
+	
+	-->
+ 
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/jahid-developer" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+</p>
+
+
+
+<!-- 
+<p align="center">
+  <a href="https://www.facebook.com/jahidekbalmallick" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://github.com/IJahid01" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jahid-developer" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+
+
+<p align="center">
+  <a href="https://www.facebook.com/jahidekbalmallick" target="_blank">
+    <img src="./assets/animated-icons/facebook.gif" width="45" alt="Facebook"/>
+  </a>
+  <a href="https://github.com/IJahid01" target="_blank">
+    <img src="./assets/animated-icons/github.gif" width="45" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jahid-developer" target="_blank">
+    <img src="./assets/animated-icons/linkedin.gif" width="45" alt="LinkedIn"/>
+  </a>
+</p>
+-->
+
+
+<!-- 
+
+Snake Game Repo View
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+-->
+
+
+<!--
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)     ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  -->
+<!-- # 📊 GitHub Stats:
+
+<div align="center">
+
+
+![](https://github-readme-stats.vercel.app/api?username=IJahid01&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
+
+
+![](https://nirzak-streak-stats.vercel.app/?user=IJahid01&theme=radical&hide_border=false)
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IJahid01&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
+</div>  -->
+
+
+
+
+
+<!-- ### 🔝 Top Contributed Repo
+
+
+![](https://github-contributor-stats.vercel.app/api?username=IJahid01&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ---
+[![](https://visitcount.itsvg.in/api?id=IJahid01&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🏆 **Core Strategic Initiatives**
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@jahidekbalmallick) 
+ -->
 
-### 🤖 **REGIX AI** — Intelligent Infrastructure
 
-- **Purpose**: Neural backbone powering all REGIX products
-- **Tech**: Next.js API, Node.js microservices, LLM integration
-- **Impact**: Defensible competitive moat through proprietary AI
-- **Security**: Rate limiting, prompt injection prevention, audit logs
 
-### 🛍️ **EKBAL STUDIO** — Luxury E-Commerce
 
-- **Purpose**: Premium conversion-optimized storefront with trust signals
-- **Tech**: Next.js SSG/ISR, Stripe integration, inventory management
-- **Impact**: High-margin revenue stream, global reach
-- **Design**: Apple minimalism + Glassmorphism checkout flow
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-### ⚡ **TEAM REGIX** — eSports Community Engine
 
-- **Purpose**: Engagement loops driving esports monetization
-- **Tech**: Real-time WebSocket updates, tournament matching, streaming
-- **Impact**: Community moat + sponsorship revenue
-- **Features**: Leaderboards, team management, live stats
+  ## 📧 For Business Inquiries
+  ✅ ➤ jahidekbal.io@gmail.com  
 
----
 
-## 📧 **Executive Contact & Partnerships**
 
-**Primary**: jahidekbalmallick@gmail.com  
-**Scale Inquiries**: 🚀 Let's build for billions
-
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCVAqPdbMyIR1mZQSvWi53Yg) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCVAqPdbMyIR1mZQSvWi53Yg) ![GitHub followers](https://img.shields.io/github/followers/jahid-ekbal) ![GitHub User's stars](https://img.shields.io/github/stars/jahid-ekbal)
-
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCVAqPdbMyIR1mZQSvWi53Yg)  ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCVAqPdbMyIR1mZQSvWi53Yg)  ![GitHub followers](https://img.shields.io/github/followers/jahid-ekbal)   ![GitHub User's stars](https://img.shields.io/github/stars/jahid-ekbal)
+   
 ![](https://komarev.com/ghpvc/?username=jahid-ekbal)
 
----
 
-# 🎨 **Design System: Apple Minimalism + Glassmorphism**
 
-## 1. 🖼️ Visual Theme & Atmosphere
 
-Apple's website is a masterclass in controlled drama — vast expanses of pure black and near-white serve as cinematic backdrops for products that are photographed as if they were sculptures in a gallery. The design philosophy is **reductive to its core**: every pixel exists in service of the product, and the interface itself retreats until it becomes invisible. This is not minimalism as aesthetic preference; it is minimalism as reverence for the object.
 
-### Typography Foundation
 
-The typography anchors everything. **San Francisco** (SF Pro Display for large sizes, SF Pro Text for body) is Apple's proprietary typeface, engineered with optical sizing that automatically adjusts letterforms depending on point size.
 
-- **Display sizes (56px)**: Weight 600 with tight line-height of 1.07 and subtle negative letter-spacing (-0.28px) creates headlines that feel machined rather than typeset — precise, confident, and unapologetically direct.
-- **Body sizes (17px)**: Tracking loosens slightly (-0.374px) and line-height opens to 1.47, creating a reading rhythm that is comfortable without ever feeling slack.
 
-### Color Story
 
-The color story is starkly binary:
 
-- **Product sections** alternate between pure black (#000000) backgrounds with white text and light gray (#f5f5f7) backgrounds with near-black text (#1d1d1f)
-- **Cinematic pacing**: Dark sections feel immersive and premium; light sections feel open and informational
-- **Single accent color**: Apple Blue (#0071e3), reserved exclusively for interactive elements: links, buttons, and focus states
 
-### Key Characteristics
 
-- SF Pro Display/Text with optical sizing — letterforms adapt automatically to size context
-- Binary light/dark section rhythm: black (#000000) alternating with light gray (#f5f5f7)
-- Single accent color: Apple Blue (#0071e3) reserved exclusively for interactive elements
-- Product-as-hero photography on solid color fields — no gradients, no textures, no distractions
-- Extremely tight headline line-heights (1.07-1.14) creating compressed, billboard-like impact
-- Full-width section layout with centered content — the viewport IS the canvas
-- Pill-shaped CTAs (980px radius) creating soft, approachable action buttons
-- Generous whitespace between sections allowing each product moment to breathe
 
----
 
-## 2. 🎨 **Color Palette & Semantic Roles**
+  <!--
 
-### Primary Colors
+  ![](https://github-visitor-counter-tau.vercel.app/api?username=jahid-ekbal)  -->
 
-| Color      | Hex     | Usage                                                 |
-| ---------- | ------- | ----------------------------------------------------- |
-| Pure Black | #000000 | Hero section backgrounds, immersive product showcases |
-| Light Gray | #f5f5f7 | Alternate section backgrounds, informational areas    |
-| Near Black | #1d1d1f | Primary text on light backgrounds, dark button fills  |
 
-### Interactive Colors
-
-| Color       | Hex     | Usage                                                                             |
-| ----------- | ------- | --------------------------------------------------------------------------------- |
-| Apple Blue  | #0071e3 | --sk-focus-color, primary CTA backgrounds, focus rings (THE ONLY chromatic color) |
-| Link Blue   | #0066cc | --sk-body-link-color, inline text links                                           |
-| Bright Blue | #2997ff | Links on dark backgrounds                                                         |
-
-### Text Colors
-
-| Color               | Usage                                                   |
-| ------------------- | ------------------------------------------------------- |
-| #ffffff             | Text on dark backgrounds, button text on blue/dark CTAs |
-| #1d1d1f             | Primary body text on light backgrounds                  |
-| rgba(0, 0, 0, 0.8)  | Secondary text, nav items on light backgrounds          |
-| rgba(0, 0, 0, 0.48) | Tertiary text, disabled states, carousel controls       |
-
-### Surface & Dark Variants
-
-| Color          | Hex     | Usage                                     |
-| -------------- | ------- | ----------------------------------------- |
-| Dark Surface 1 | #272729 | Card backgrounds in dark sections         |
-| Dark Surface 2 | #262628 | Subtle surface variation in dark contexts |
-| Dark Surface 3 | #28282a | Elevated cards on dark backgrounds        |
-| Dark Surface 4 | #2a2a2d | Highest dark surface elevation            |
-| Dark Surface 5 | #242426 | Deepest dark surface tone                 |
-
-### Button States & Overlays
-
-| Color                | Hex                       | Usage                                   |
-| -------------------- | ------------------------- | --------------------------------------- |
-| Button Active        | #ededf2                   | Active/pressed state for light buttons  |
-| Button Default Light | #fafafc                   | Search/filter button backgrounds        |
-| Overlay              | rgba(210, 210, 215, 0.64) | Media control scrims, overlays          |
-| White 32%            | rgba(255, 255, 255, 0.32) | Hover state on dark modal close buttons |
-
-### Shadows
-
-**Card Shadow**: `rgba(0, 0, 0, 0.22) 3px 5px 30px 0px` — Soft, diffused elevation for product cards. Offset and wide blur create a natural, photographic shadow.
-
----
-
-## 3. ✍️ **Typography Rules & Animation Layers**
-
-### Font Family & Animation Timing
-
-- **Display**: SF Pro Display, with fallbacks: SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif
-  - **Animation**: `fadeInScale 0.8s cubic-bezier(0.25, 0.46, 0.45, 0.94)`
-- **Body**: SF Pro Text, with fallbacks: SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif
-  - **Animation**: `fadeInScale 1.0s ease-out 0.2s backwards`
-
-_SF Pro Display at 20px+ with entrance animation; SF Pro Text optimized below 19px with staggered reveal._
-
-### Typography Hierarchy
-
-| Role            | Font           | Size           | Weight | Line Height | Letter Spacing | Notes                                    |
-| --------------- | -------------- | -------------- | ------ | ----------- | -------------- | ---------------------------------------- |
-| Display Hero    | SF Pro Display | 56px (3.50rem) | 600    | 1.07        | -0.28px        | Product launch headlines, maximum impact |
-| Section Heading | SF Pro Display | 40px (2.50rem) | 600    | 1.10        | normal         | Feature section titles                   |
-| Tile Heading    | SF Pro Display | 28px (1.75rem) | 400    | 1.14        | 0.196px        | Product tile headlines                   |
-| Card Title      | SF Pro Display | 21px (1.31rem) | 700    | 1.19        | 0.231px        | Bold card headings                       |
-| Sub-heading     | SF Pro Display | 21px (1.31rem) | 400    | 1.19        | 0.231px        | Regular card headings                    |
-| Nav Heading     | SF Pro Text    | 34px (2.13rem) | 600    | 1.47        | -0.374px       | Large navigation headings                |
-| Sub-nav         | SF Pro Text    | 24px (1.50rem) | 300    | 1.50        | normal         | Light sub-navigation text                |
-| Body            | SF Pro Text    | 17px (1.06rem) | 400    | 1.47        | -0.374px       | Standard reading text                    |
-| Body Emphasis   | SF Pro Text    | 17px (1.06rem) | 600    | 1.24        | -0.374px       | Emphasized body text, labels             |
-| Button Large    | SF Pro Text    | 18px (1.13rem) | 300    | 1.00        | normal         | Large button text, light weight          |
-| Button          | SF Pro Text    | 17px (1.06rem) | 400    | 2.41        | normal         | Standard button text                     |
-| Link            | SF Pro Text    | 14px (0.88rem) | 400    | 1.43        | -0.224px       | Body links, "Learn more"                 |
-| Caption         | SF Pro Text    | 14px (0.88rem) | 400    | 1.29        | -0.224px       | Secondary text, descriptions             |
-| Caption Bold    | SF Pro Text    | 14px (0.88rem) | 600    | 1.29        | -0.224px       | Emphasized captions                      |
-| Micro           | SF Pro Text    | 12px (0.75rem) | 400    | 1.33        | -0.12px        | Fine print, footnotes                    |
-| Micro Bold      | SF Pro Text    | 12px (0.75rem) | 600    | 1.33        | -0.12px        | Bold fine print                          |
-| Nano            | SF Pro Text    | 10px (0.63rem) | 400    | 1.47        | -0.08px        | Legal text, smallest size                |
-
-### Typographic Principles
-
-1. **Optical sizing as philosophy**: SF Pro automatically switches between Display and Text optical sizes. Display versions have wider letter spacing and thinner strokes optimized for large sizes; Text versions are tighter and sturdier for small sizes. The font literally changes its DNA based on context.
-
-2. **Weight restraint**: The scale spans 300 (light) to 700 (bold) but most text lives at 400 (regular) and 600 (semibold). Weight 300 appears only on large decorative text. Weight 700 is rare, used only for bold card titles.
-
-3. **Negative tracking at all sizes**: Unlike most systems that only track headlines, Apple applies subtle negative letter-spacing even at body sizes (-0.374px at 17px, -0.224px at 14px, -0.12px at 12px). This creates universally tight, efficient text.
-
-4. **Extreme line-height range**: Headlines compress to 1.07 while body text opens to 1.47, and some button contexts stretch to 2.41. This dramatic range creates clear visual hierarchy through rhythm alone.
-
----
-
-## 4. 🧩 **Component Stylings & Motion Design**
-
-### Buttons
-
-#### Primary Blue (CTA)
-
-```css
-background: #0071e3 (Apple Blue)
-color: #ffffff
-padding: 8px 15px
-border-radius: 8px
-border: 1px solid transparent
-font: SF Pro Text, 17px, weight 400
-/* Hover: background brightens slightly */
-/* Active: #ededf2 background shift */
-/* Focus: 2px solid var(--sk-focus-color, #0071E3) outline */
-```
-
-**Use**: Primary call-to-action ("Buy", "Shop iPhone")
-
-#### Primary Dark
-
-```css
-background: #1d1d1f
-color: #ffffff
-padding: 8px 15px
-border-radius: 8px
-font: SF Pro Text, 17px, weight 400
-```
-
-**Use**: Secondary CTA, dark variant
-
-#### Pill Link (Learn More / Shop)
-
-```css
-background: transparent
-color: #0066cc (light bg) or #2997ff (dark bg)
-border-radius: 980px
-border: 1px solid #0066cc
-font: SF Pro Text, 14px-17px
-/* Hover: underline decoration */
-```
-
-**Use**: "Learn more" and "Shop" links — the signature Apple inline CTA
-
-#### Filter / Search Button
-
-```css
-background: #fafafc
-color: rgba(0, 0, 0, 0.8)
-padding: 0px 14px
-border-radius: 11px
-border: 3px solid rgba(0, 0, 0, 0.04)
-/* Focus: 2px solid var(--sk-focus-color, #0071E3) outline */
-```
-
-**Use**: Search bars, filter controls
-
-#### Media Control
-
-```css
-background: rgba(210, 210, 215, 0.64)
-color: rgba(0, 0, 0, 0.48)
-border-radius: 50%
-/* Active: scale(0.9), background shifts */
-/* Focus: 2px solid var(--sk-focus-color, #0071e3) outline, white bg, black text */
-```
-
-**Use**: Play/pause, carousel arrows
-
-### Cards & Containers
-
-```css
-background: #f5f5f7 (light) or #272729-#2a2a2d (dark)
-border: none
-border-radius: 5px-8px
-box-shadow: rgba(0, 0, 0, 0.22) 3px 5px 30px 0px (elevated cards)
-/* Content: centered, generous padding */
-/* Hover: no standard hover state — cards are static, links within them are interactive */
-```
-
-### Navigation
-
-```css
-background: rgba(0, 0, 0, 0.8)
-backdrop-filter: saturate(180%) blur(20px)
-height: 48px
-color: #ffffff
-font-size: 12px
-font-weight: 400
-/* Active: underline on hover */
-/* Logo: Apple logomark (SVG) centered or left-aligned, 17x48px viewport */
-/* Mobile: collapses to hamburger with full-screen overlay menu */
-```
-
-_The nav floats above content, maintaining its dark translucent glass regardless of section background_
-
-### Image Treatment
-
-- Products on solid-color fields (black or white) — no backgrounds, no context, just the object
-- Full-bleed section images that span the entire viewport width
-- Product photography at extremely high resolution with subtle shadows
-- Lifestyle images confined to rounded-corner containers (12px+ radius)
-
----
-
-## 5. 📐 **Layout Principles & Spatial Choreography**
-
-### Spacing System
-
-- **Base unit**: 8px
-- **Scale**: 2px, 4px, 5px, 6px, 7px, 8px, 9px, 10px, 11px, 14px, 15px, 17px, 20px, 24px
-
-_Characteristic: The scale is dense at small sizes (2-11px) with granular 1px increments, then jumps in larger steps. This allows precise micro-adjustments for typography and icon alignment._
-
-### Grid & Container
-
-- **Max content width**: Approximately 980px (the recurring "980px radius" in pill buttons echoes this width)
-- **Hero**: Full-viewport-width sections with centered content block
-- **Product grids**: 2-3 column layouts within centered container
-- **Single-column for hero moments**: One product, one message, full attention
-- **No visible grid lines or gutters**: Spacing creates implied structure
-
-### Whitespace Philosophy
-
-1. **Cinematic breathing room**: Each product section occupies a full viewport height (or close to it). The whitespace between products is not empty — it is the pause between scenes in a film.
-
-2. **Vertical rhythm through color blocks**: Rather than using spacing alone to separate sections, Apple uses alternating background colors (black, #f5f5f7, white). Each color change signals a new "scene."
-
-3. **Compression within, expansion between**: Text blocks are tightly set (negative letter-spacing, tight line-heights) while the space surrounding them is vast. This creates a tension between density and openness.
-
-### Border Radius Scale
-
-| Size        | Value | Use                                                |
-| ----------- | ----- | -------------------------------------------------- |
-| Micro       | 5px   | Small containers, link tags                        |
-| Standard    | 8px   | Buttons, product cards, image containers           |
-| Comfortable | 11px  | Search inputs, filter buttons                      |
-| Large       | 12px  | Feature panels, lifestyle image containers         |
-| Full Pill   | 980px | CTA links ("Learn more", "Shop"), navigation pills |
-| Circle      | 50%   | Media controls (play/pause, arrows)                |
-
----
-
-## 6. 🌊 **Depth, Elevation & Glassmorphism Layer System**
-
-| Level                 | Treatment                                                         | Use                                        |
-| --------------------- | ----------------------------------------------------------------- | ------------------------------------------ |
-| Flat (Level 0)        | No shadow, solid background                                       | Standard content sections, text blocks     |
-| Navigation Glass      | `backdrop-filter: saturate(180%) blur(20px)` on `rgba(0,0,0,0.8)` | Sticky navigation bar — the glass effect   |
-| Subtle Lift (Level 1) | `rgba(0, 0, 0, 0.22) 3px 5px 30px 0px`                            | Product cards, floating elements           |
-| Media Control         | `rgba(210, 210, 215, 0.64)` background with scale transforms      | Play/pause buttons, carousel controls      |
-| Focus (Accessibility) | `2px solid #0071e3` outline                                       | Keyboard focus on all interactive elements |
-
-### Shadow Philosophy & Glassmorphism
-
-Apple uses shadow sparingly; REGIX enhances with **Liquid Glass**:
-
-- **Primary shadow**: `3px 5px 30px rgba(0,0,0,0.22)` — soft, diffused, studio light effect
-- **Glass layer**: `backdrop-filter: blur(10px)` + `rgba(255,255,255,0.08)` + `border: 1px solid rgba(255,255,255,0.2)`
-- **Elevation through transparency**, not depth. Background contrast creates visual hierarchy.
-
-### Decorative Depth & Liquid Glass Positioning
-
-- **Navigation glass**: Translucent nav bar (`backdrop-filter: blur(20px)`) floats above content
-  - **Animation**: Subtle entrance on load; sticky positioning with parallax scroll
-- **Section color transitions**: Binary rhythm (black/light gray) implies depth; Glassmorphism cards layer on top
-- **Product photography**: Products cast shadows in photography; UI stays invisible except glass overlays
-- **Entrance timing**: Stagger card reveals by 100–150ms for elegant cascade effect
-
----
-
-## 7. ✅ **Do's and Don'ts — Engineering Guardrails**
-
-### ✅ Do
-
-- Use SF Pro Display at 20px+ and SF Pro Text below 20px — respect the optical sizing boundary
-- Apply negative letter-spacing at all text sizes (not just headlines) — Apple tracks tight universally
-- Use Apple Blue (#0071e3) ONLY for interactive elements — it must be the singular accent
-- Alternate between black and light gray (#f5f5f7) section backgrounds for cinematic rhythm
-- Use 980px pill radius for CTA links — the signature Apple link shape
-- Keep product imagery on solid-color fields with no competing visual elements
-- Use the translucent dark glass (rgba(0,0,0,0.8) + blur) for sticky navigation
-- Compress headline line-heights to 1.07-1.14 — Apple headlines are famously tight
-
-### ❌ Don't
-
-- Don't introduce additional accent colors — the entire chromatic budget is spent on blue
-- Don't use heavy shadows or multiple shadow layers — Apple's shadow system is one soft diffused shadow or nothing
-- Don't use borders on cards or containers — Apple almost never uses visible borders (except on specific buttons)
-- Don't apply wide letter-spacing to SF Pro — it is designed to run tight at every size
-- Don't use weight 800 or 900 — the maximum is 700 (bold), and even that is rare
-- Don't add textures, patterns, or gradients to backgrounds — solid colors only
-- Don't make the navigation opaque — the glass blur effect is essential to the Apple UI identity
-- Don't center-align body text — Apple body copy is left-aligned; only headlines center
-- Don't use rounded corners larger than 12px on rectangular elements (980px is for pills only)
-
----
-
-## 8. 📱 **Responsive Behavior & Mobile Animation Strategy**
-
-### Breakpoints
-
-| Name          | Width       | Key Changes                        |
-| ------------- | ----------- | ---------------------------------- |
-| Small Mobile  | <360px      | Minimum supported, single column   |
-| Mobile        | 360-480px   | Standard mobile layout             |
-| Mobile Large  | 480-640px   | Wider single column, larger images |
-| Tablet Small  | 640-834px   | 2-column product grids begin       |
-| Tablet        | 834-1024px  | Full tablet layout, expanded nav   |
-| Desktop Small | 1024-1070px | Standard desktop layout begins     |
-| Desktop       | 1070-1440px | Full layout, max content width     |
-| Large Desktop | >1440px     | Centered with generous margins     |
-
-### Touch Targets
-
-- **Primary CTAs**: 8px 15px padding creating ~44px touch height
-- **Navigation links**: 48px height with adequate spacing
-- **Media controls**: 50% radius circular buttons, minimum 44x44px
-- **"Learn more" pills**: Generous padding for comfortable tapping
-
-### Collapsing Strategy with Motion
-
-- **Hero headlines**: 56px (0.8s) → 40px (0.7s) → 28px mobile (0.6s)
-  - Maintain tight line-heights proportionally; stagger text animations
-- **Product grids**: 3-column → 2-column → single column; glass card reveals stagger by 80ms per item
-- **Navigation**: Full horizontal nav → hamburger overlay (slides from top, blur background)
-- **Product hero modules**: Full-bleed maintained; typography scales responsively
-- **Section backgrounds**: Full-width color blocks persist; glass overlays scale seamlessly
-- **Touch targets**: Minimum 44x44px; add haptic feedback (where supported)
-
-### Image Behavior
-
-- **Product photography**: Maintains aspect ratio at all breakpoints
-- **Hero product images**: Scale down but stay centered
-- **Full-bleed section backgrounds**: Persist at every size
-- **Lifestyle images**: May crop on mobile but maintain their rounded corners
-- **Lazy loading**: For below-fold product images
-
----
-
-## 9. ⚡ **Quick Reference: Colors, Animations & Specs**
-
-### Quick Color Reference
-
-| Element                 | Color                                        |
-| ----------------------- | -------------------------------------------- |
-| Primary CTA             | Apple Blue (#0071e3)                         |
-| Page background (light) | #f5f5f7                                      |
-| Page background (dark)  | #000000                                      |
-| Heading text (light)    | #1d1d1f                                      |
-| Heading text (dark)     | #ffffff                                      |
-| Body text               | rgba(0, 0, 0, 0.8) on light, #ffffff on dark |
-| Link (light bg)         | #0066cc                                      |
-| Link (dark bg)          | #2997ff                                      |
-| Focus ring              | #0071e3                                      |
-| Card shadow             | rgba(0, 0, 0, 0.22) 3px 5px 30px 0px         |
-
-### Example Component Prompts
-
-**Hero Section on Black**
-
-> Create a hero section on black background. Headline at 56px SF Pro Display weight 600, line-height 1.07, letter-spacing -0.28px, color white. One-line subtitle at 21px SF Pro Display weight 400, line-height 1.19, color white. Two pill CTAs: 'Learn more' (transparent bg, white text, 1px solid white border, 980px radius) and 'Buy' (Apple Blue #0071e3 bg, white text, 8px radius, 8px 15px padding).
-
-**Product Card**
-
-> Design a product card: #f5f5f7 background, 8px border-radius, no border, no shadow. Product image top 60% of card on solid background. Title at 28px SF Pro Display weight 400, letter-spacing 0.196px, line-height 1.14. Description at 14px SF Pro Text weight 400, color rgba(0,0,0,0.8). 'Learn more' and 'Shop' links in #0066cc at 14px.
-
-**Navigation Bar**
-
-> Build the Apple navigation: sticky, 48px height, background rgba(0,0,0,0.8) with backdrop-filter: saturate(180%) blur(20px). Links at 12px SF Pro Text weight 400, white text. Apple logo left, links centered, search and bag icons right.
-
-**Alternating Section Layout**
-
-> Create an alternating section layout: first section black bg with white text and centered product image, second section #f5f5f7 bg with #1d1d1f text. Each section near full-viewport height with 56px headline and two pill CTAs below.
-
-**Learn More Link**
-
-> Design a 'Learn more' link: text #0066cc on light bg or #2997ff on dark bg, 14px SF Pro Text, underline on hover. After the text, include a right-arrow chevron character (>). Wrap in a container with 980px border-radius for pill shape when used as a standalone CTA.
-
-### 🎯 **Iteration Guide: The REGIX Engineering Mandate**
-
-#### 🎨 **Design Law**
-
-- Every interactive element gets Apple Blue (#0071e3) — singular accent, no negotiation
-- Section backgrounds alternate: #000000 (immersive/premium) ↔ #f5f5f7 (informational/trust)
-- Glassmorphism overlays layer on dark sections: `rgba(255,255,255,0.08)` + `blur(10px)`
-- Typography optical sizing: SF Pro Display at 20px+, SF Pro Text below — never mix
-- Negative letter-spacing at all sizes: -0.28px (56px) → -0.374px (17px) → -0.224px (14px) → -0.12px (12px)
-- Navigation glass is non-negotiable: `backdrop-filter: blur(20px)` + `rgba(0,0,0,0.8)`
-
-#### ⚙️ **Development Law**
-
-- Products on solid-color fields only — zero gradients, textures, or lifestyle backgrounds
-- Shadow protocol: `3px 5px 30px rgba(0,0,0,0.22)` for cards OR nothing
-- Pill CTAs use 980px radius — Apple's signature rounded-rectangle shape
-- Entrance animations: `fadeInScale` 0.6s–0.8s cubic-bezier; stagger child elements by 100–150ms
-- All interactive states: hover (+2px translateY), active (reset), focus (2px outline #0071e3)
-- Mobile-first: Glass panels degrade gracefully on low-end devices (no blur fallback)
-
-#### 🔐 **Security Law**
-
-- CSRF tokens on all forms; sanitize user input server-side
-- Rate limit API endpoints: 100 req/min per IP (REGIX AI endpoints)
-- Sanitize SVG/image uploads; block script injection vectors
-- Content Security Policy: `default-src 'self'; style-src 'unsafe-inline'` (for Tailwind)
-- Auth: JWT with 15-min expiry; refresh tokens in httpOnly cookies
-
-#### 🎯 **Brand Law**
-
-- Every feature must enhance one of three REGIX pillars: **REGIX AI** (infrastructure), **EKBAL STUDIO** (revenue), **TEAM REGIX** (community)
-- No feature ships without product reasoning: "This converts X% more users" or "This reduces churn by Y%"
-- Code is culture. Write for billions, not thousands. Scalability is table stakes.
